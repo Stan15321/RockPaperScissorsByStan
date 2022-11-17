@@ -1,4 +1,4 @@
-# RockPaperScissorsByStan
+# Rock, Paper, Scissors By Stan
 A simple console game "Rock Paper Scissors"
 You should choose between 3 options "rock", "paper", "scissors".
 The rules are: Rock beats scissors, scissors beats paper and papper beats rock.
