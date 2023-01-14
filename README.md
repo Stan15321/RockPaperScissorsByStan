@@ -14,4 +14,3 @@ Here is a screenshot:
 You can play the game directly here:
 
 [<img alt="Play Button" src ="https://user-images.githubusercontent.com/109627707/192619558-10d2eba5-5e89-4d2e-a5a3-a82701b90691.png" />](https://replit.com/@Stan15321/Rock-Paper-Scissors#Main.cs)
-
